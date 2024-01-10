@@ -1,0 +1,1 @@
+Login application is made with the help of C++ programming language. It has function of login and registration of the user. It can also retrieve the forgotten password and also stores the data of the user.
